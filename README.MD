@@ -1,3 +1,19 @@
+### EVA Tokens
+
+Root address: 0:4306cf747d85b983177b1c41ccf1ecc37a8dff7ea5fb2774a2a5ffe2fde5873a
+
+Standart: TIP31
+
+### Some final ideas
+
+- nft certificates for Tokens
+- voting with tokens
+- sell some services:
+  - teaching
+  - mentoring
+  -
+
+
 ### Possible idea about tokens:
 -  name EVA - Everscale Academy
 - Not tokenomics, but way of using:
