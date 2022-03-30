@@ -1,5 +1,5 @@
 ### Possible idea about tokens:
--  name EVA - EVerlast Academy
+-  name EVA - Everscale Academy
 - Not tokenomics, but way of using:
   - rewards for students
   - course creators prizes
