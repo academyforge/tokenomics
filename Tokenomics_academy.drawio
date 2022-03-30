@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T11:05:43.260Z" agent="5.0 (Macintosh)" etag="0BJqQMZkSeST7nU3bPgB" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T15:21:14.785Z" agent="5.0 (Macintosh)" etag="ymEnFYEb9t9FVxe0IhL0" version="16.6.6" type="github">
   <diagram id="jpuq988MyLIWssS1KbEf" name="Tokenomics">
-    <mxGraphModel dx="1965" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="yCxXFOpQgSl_8h9aCPPC-27" value="Smart Contracts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yCxXFOpQgSl_8h9aCPPC-32" value="ACADEMY TIP-3.1" style="swimlane;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="yCxXFOpQgSl_8h9aCPPC-32" value="EVA TIP-3.1" style="swimlane;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="360" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yCxXFOpQgSl_8h9aCPPC-33" value="&lt;span style=&quot;left: 96px ; top: 400.378px ; font-size: 16px ; font-family: sans-serif ; transform: scalex(1.08039)&quot; dir=&quot;ltr&quot;&gt;ACADEMY smart contract is a TIP-3.1 smart contract. The Root (Mintofarm) controls total supply,&lt;/span&gt;&lt;span style=&quot;left: 96px ; top: 421.633px ; font-size: 16px ; font-family: sans-serif ; transform: scalex(1.03201)&quot; dir=&quot;ltr&quot;&gt;airdrop and minting of new tokens in exchange for TONs that have been locked for one of the&lt;/span&gt;&lt;span style=&quot;left: 96px ; top: 442.89px ; font-size: 16px ; font-family: sans-serif ; transform: scalex(1.00907)&quot; dir=&quot;ltr&quot;&gt; three lock periods: 90, 180, 360.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="yCxXFOpQgSl_8h9aCPPC-32" vertex="1">
